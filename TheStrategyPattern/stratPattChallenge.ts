@@ -54,7 +54,7 @@ class CameraPlusApp extends PhoneCameraApp {
     }
 
     edit(): void {
-        console.log("Editing with basic features...");
+        console.log("Editing with premium features...");
     }
 }
 
